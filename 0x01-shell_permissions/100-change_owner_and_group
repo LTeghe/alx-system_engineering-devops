@@ -1,2 +1,2 @@
 #!/bin/bash
-chown:chgrpi:: vincent staff
+chown vincent:staff *
