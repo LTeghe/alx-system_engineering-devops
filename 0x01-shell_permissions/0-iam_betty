@@ -1,0 +1,2 @@
+#!/Bin/bash
+su -l [betty]
